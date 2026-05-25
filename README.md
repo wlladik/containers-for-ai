@@ -1,4 +1,4 @@
-# Lesson 13: Containers for AI
+# Containers for AI
 
 ## Порівняння Docker образів
 
